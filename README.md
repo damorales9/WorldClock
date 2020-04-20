@@ -57,7 +57,7 @@ Click on the application and it will begin running.
 If you need a reference guide or more help:
 https://developer.android.com/studio/build/building-cmdline
 
-Enjoy!
+Enjoy swiping through the different cities!
 
 
 
