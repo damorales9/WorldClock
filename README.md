@@ -54,6 +54,9 @@ Now if you "swipe up" on the deivce the application "World Clock" should now be 
 
 Click on the application and it will begin running.
 
+If you need a reference guide or more help:
+https://developer.android.com/studio/build/building-cmdline
+
 Enjoy!
 
 
