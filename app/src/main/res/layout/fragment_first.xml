@@ -37,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="160dp"
+        android:layout_marginTop="165dp"
         android:visibility="invisible" />
 
     <TextView
@@ -45,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity = "center_horizontal"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="130dp"
         android:textColor="#FFFFFF"
         android:textSize="35sp"
         android:textStyle="bold"
@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/dateID"
         android:layout_gravity = "center_horizontal"
-        android:layout_marginTop="310dp"
+        android:layout_marginTop="300dp"
         android:textColor="#FFFFFF"
         android:textSize="35sp"
         android:textStyle="bold"
