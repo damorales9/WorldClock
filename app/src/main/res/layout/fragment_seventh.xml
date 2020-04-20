@@ -28,7 +28,8 @@
         android:textColor="#FFFFFF"
         android:timeZone="Asia/Hong_Kong"
         android:textSize="45sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-light"/>
 
     <AnalogClock
         android:id="@+id/analogClock"
@@ -48,7 +49,8 @@
         android:textSize="35sp"
         android:textStyle="bold"
         android:text="Beijing"
-        tools:text="@tools:sample/cities" />
+        tools:text="@tools:sample/cities"
+        android:fontFamily="sans-serif-thin"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -59,6 +61,7 @@
         android:textColor="#FFFFFF"
         android:textSize="35sp"
         android:textStyle="bold"
+        android:fontFamily="sans-serif-thin"
         />
 
     <Button
@@ -69,5 +72,26 @@
         android:layout_gravity = "center_horizontal"
         android:layout_marginTop="410dp"
         android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/imageButtonRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/right"
+        android:layout_marginTop="210dp"
+        android:layout_marginLeft="350dp"
+        android:background="@drawable/rounded_corners"
+        android:alpha="0.6"
+        />
+
+    <ImageButton
+        android:id="@+id/imageButtonLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/left"
+        android:layout_marginTop="210dp"
+        android:background="@drawable/rounded_corners"
+        android:alpha="0.6"
+        />
 
 </FrameLayout>
